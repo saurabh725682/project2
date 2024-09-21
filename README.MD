@@ -1,3 +1,3 @@
 # New Project
 
-This is our new project
+This is our new project.
